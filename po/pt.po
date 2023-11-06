@@ -18,15 +18,15 @@ msgstr ""
 
 #: src/prefPages/other.js:23
 msgid "Fix Weather Widget Overflow"
-msgstr ""
+msgstr "Concertar widget de clima excessivamente grande"
 
 #: src/prefPages/other.js:24
 msgid "Fix overflow visual bug of weather widget in datemenu"
-msgstr ""
+msgstr "Conserta um bug visual no widget de clima"
 
 #: src/prefPages/other.js:30
 msgid "Remove Notifications On Date Menu"
-msgstr ""
+msgstr "Remover notificações no menu de data"
 
 #: src/prefPages/other.js:31
 msgid ""
@@ -36,59 +36,59 @@ msgstr ""
 
 #: src/prefPages/other.js:37
 msgid "Remove Media Control On Date Menu"
-msgstr ""
+msgstr "Remover controle de midia no menu de data"
 
 #: src/prefPages/other.js:38
 msgid "Hide media control on date menu."
-msgstr ""
+msgstr "Esconde o controle de midia do menu de data"
 
 #: src/prefPages/other.js:44
 msgid "Do not adjust the border radius of contents."
-msgstr ""
+msgstr "Não ajustar o arredondamento das bordas"
 
 #: src/prefPages/other.js:45
 msgid "Don't adjust the border of messages and media controls."
-msgstr ""
+msgstr "Não ajusta a borda das mensagens e do controle de midia"
 
 #: src/prefPages/other.js:51
 msgid "Do not remove the shadow of contents."
-msgstr ""
+msgstr "Não remover sombra dos conteúdos"
 
 #: src/prefPages/other.js:52
 msgid "Don't remove the shadow of messages and media controls."
-msgstr ""
+msgstr "Não remove a sombra das mensagens e controles de midia"
 
 #: src/prefPages/about.js:20
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: src/prefPages/about.js:58
 msgid "This extension is distributed with license GPL 3+"
-msgstr ""
+msgstr "Essa extensão é distribuida com a licença GPL 3+"
 
 #: src/prefPages/about.js:59
 msgid "excludes Third-party. Third party codes follow their license"
-msgstr ""
+msgstr "exclui terceiros. Codigo de terceiros seguem a sua própria licença"
 
 #: src/prefPages/about.js:63
 msgid "Extension Version"
-msgstr ""
+msgstr "Versao da extensão"
 
 #: src/prefPages/about.js:65
 msgid "Unknown (Built from source)"
-msgstr ""
+msgstr "Desconhecida (compilado da fonte)"
 
 #: src/prefPages/about.js:72
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: src/prefPages/about.js:78
 msgid "Donate via patreon"
-msgstr ""
+msgstr "Doar via patreon"
 
 #: src/prefPages/about.js:79
 msgid "Support development!"
-msgstr ""
+msgstr "Apoie o desenvolvimento"
 
 #: src/prefPages/about.js:85
 msgid "Rate and comment the extension!"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: src/prefPages/about.js:90
 msgid "Github Repository"
-msgstr ""
+msgstr "Repositório do Github"
 
 #: src/prefPages/about.js:91
 msgid ""
@@ -107,59 +107,59 @@ msgstr ""
 
 #: src/prefPages/about.js:101
 msgid "Contributor"
-msgstr ""
+msgstr "Contribuidor"
 
 #: src/prefPages/about.js:102
 msgid "The creators of this extension"
-msgstr ""
+msgstr "Os criadores dessa extensão"
 
 #: src/prefPages/about.js:108
 msgid "Third party LICENSE"
-msgstr ""
+msgstr "LICENSA de terceiros"
 
 #: src/prefPages/about.js:109
 msgid "LICENSE OF CODES WHICH USED ON THIS EXTENSION"
-msgstr ""
+msgstr "LICENSA DOS CÓDIGOS QUE SÃO USADOS NESSA EXTENSÃO"
 
 #: src/prefPages/quickToggles.js:19
 msgid "Quick Toggles"
-msgstr ""
+msgstr "Ajustes rapidos"
 
 #: src/prefPages/quickToggles.js:24
 msgid "Add more buttons"
-msgstr ""
+msgstr "Adicionar mais botões"
 
 #: src/prefPages/quickToggles.js:25
 msgid "Turn on the buttons you want to add on Quick Settings"
-msgstr ""
+msgstr "Ative os botões que você quer adicionar nas configurações rápidas"
 
 #: src/prefPages/quickToggles.js:29
 msgid "DND Quick Toggle"
-msgstr ""
+msgstr "Não Perturbe"
 
 #: src/prefPages/quickToggles.js:30
 msgid "Turn on to make the DND quick toggle visible on the Quick Settings panel"
-msgstr ""
+msgstr "Ative para tornar a opção Nao Perturbe visivel"
 
 #: src/prefPages/quickToggles.js:36
 msgid "Unsafe Mode Quick Toggle"
-msgstr ""
+msgstr "Modo inseguro"
 
 #: src/prefPages/quickToggles.js:37
 msgid "Turn on to make the unsafe quick toggle visible on the Quick Settings panel"
-msgstr ""
+msgstr "Ative para tornar a opção Modo inseguro visível"
 
 #: src/prefPages/quickToggles.js:45
 msgid "Buttons to remove"
-msgstr ""
+msgstr "Botões a remover"
 
 #: src/prefPages/quickToggles.js:46
 msgid "Turn on the buttons you want to remove from Quick Settings"
-msgstr ""
+msgstr "Ative is botoes que voce quer remover das configurações rápidas"
 
 #: src/prefPages/quickToggles.js:50
 msgid "Remove chosen buttons from quick panel"
-msgstr ""
+msgstr "Remover botões escolhidos das configurações rápidas"
 
 #: src/prefPages/quickToggles.js:51
 msgid "Forked from my extension https://github.com/qwreey75/gnome-quick-settings-button-remover"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: src/prefPages/quickToggles.js:55
 msgid "This feature is unstable sometime"
-msgstr ""
+msgstr "Este recurso é as vezes instável"
 
 #: src/prefPages/quickToggles.js:56
 msgid ""
@@ -180,15 +180,15 @@ msgstr ""
 
 #: src/prefPages/quickToggles.js:60
 msgid "Please turn off if some bug occurred"
-msgstr ""
+msgstr "Por favor desligue se algum problema ocorrer"
 
 #: src/prefPages/quickToggles.js:72
 msgid "Unknown"
-msgstr ""
+msgstr "Desconhecido"
 
 #: src/prefPages/quickToggles.js:72
 msgid " (invisible by system)"
-msgstr ""
+msgstr " (Invisível pelo sistema)"
 
 #: src/prefPages/volumeMixer.js:27
 msgid "Add Application to filtering"
